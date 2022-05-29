@@ -76,4 +76,4 @@ bot.load_extension("warns")
 bot.load_extension("roles")
 bot.load_extension("donate")
 
-bot.run("ODM2ODk5Nzg4NDQzMDkxMDA1.YIktqg.u27KPgYWPcMkqunuGZ4PgTHJQj8")
+bot.run("{TOEKN}")
